@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Imran Alam</h1>
+<h3 align="center">🚀 Cloud & DevOps Engineer | Automating the Future ☁️</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhaan_refai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhaan-refai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suhaan_refai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhaanrefai@gmail.com) 
